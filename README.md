@@ -24,6 +24,29 @@ The frontend is built using React.js, providing a clean, responsive, and user-fr
 
 Overall, this project demonstrates key real-world concepts such as real-time collaboration, state synchronization, client-server communication, and database persistence, making it a practical example of modern full-stack web application development.
 
+*Steps to Run*:
+
+<ol>
+  <li>git clone https://github.com/abishekM1732/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR.git and cd REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR</li>
+
+  <li>Navigate to the backend folder (if applicable) and install dependencies using npm install</li>
+
+  <li>Ensure MongoDB service is running locally</li>
+
+  <li>Start the backend server using node server.js (or npm start)</li>
+
+  <li>Verify the server is running on http://localhost:3000 (or the port specified in the project)</li>
+
+  <li>Open a web browser and navigate to the frontend URL (usually http://localhost:3000)</li>
+
+  <li>Create or open a document from the interface</li>
+
+  <li>Open the same document in multiple browser tabs or devices to test real-time collaboration</li>
+
+  <li>Start editing and observe real-time content synchronization between users</li>
+</ol>
+
+
 *TECH STACK*;
 
 *Frontend*:
